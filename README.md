@@ -1,6 +1,7 @@
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/zskecskemeti/count.svg" alt="Visitor's Count" />
+   <a href='http://www.freevisitorcounters.com'>freecounter</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=da427ab7dbbb98d4ab5367393d94922a5cfbd01e'></script>
+<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1445940/t/5"></script>
 </div>
 
 <h1 align="center">
